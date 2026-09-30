@@ -1,8 +1,8 @@
 
-# spotify_listening_history1
-personal data analysis project
+
+
 =======
-# 🎵 Spotify / Last.fm Listening History: End-to-End Pipeline & Retention Analytics
+# Spotify Listening History Analysis via Last.fm Scrobbles
 
 An end-to-end data analytics and engineering project analyzing **138,000+ scrobbles** spanning over 5 years (2021–2026). The project extracts, cleans, and normalizes raw streaming logs into a 3NF MySQL relational database, performs targeted SQL analytical queries, visualizes long-term listening behavior, and translates behavioral data into **product retention and recommendation strategies for music streaming platforms**.
 
