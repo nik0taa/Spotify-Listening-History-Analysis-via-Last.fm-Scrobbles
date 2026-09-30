@@ -128,20 +128,6 @@ How music streaming platforms (Spotify, Apple Music, YouTube Music) can leverage
 
 ---
 
-## Visualizations Gallery
-
-| Analysis | Description | Preview |
-| :--- | :--- | :--- |
-| **Diurnal Polar Clock** | 24-hour radial distribution mapping peak listening hours. | ![Busiest Hour](busiest_hour_radial.png) |
-| **Year-over-Year Trend** | Total annual scrobble progression from 2021 to 2026. | ![YoY Trend](yoy_trend.png) |
-| **Repeat Listen Rate** | Percentage of annual scrobbles attributed to repeat plays. | ![Repeat Rate](repeat_rate.png) |
-| **Day-of-Week Distribution** | Shift from weekend playback to mid-weekday listening. | ![Day of Week](day_of_week_yearly.png) |
-| **Listening Seasonality** | Heatmap matrix of listening volume by year and month. | ![Seasonality Heatmap](seasonality_heatmap.png) |
-| **Top 10 Artist Trajectories** | Multi-year play trajectories of the top 10 most-played artists. | ![Top 10 Artists](top10_artists_trend.png) |
-| **Radiohead Obsession Curve** | Deep-dive tracking the explosive multi-year surge in Radiohead plays. | ![Radiohead Trend](radiohead_trend.png) |
-| **Artist Loyalty Histogram** | Skewed distribution of one-month artists vs. lifelong staples. | ![Artist Loyalty](artist_loyalty_histogram.png) |
-
----
 
 ## Repository Structure
 
