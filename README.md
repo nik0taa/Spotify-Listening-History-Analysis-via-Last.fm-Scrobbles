@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # spotify_listening_history1
 personal data analysis project
 =======
@@ -198,4 +198,4 @@ Launch Jupyter and execute all cells in `spotify_listening_history1.ipynb`:
 ```bash
 jupyter notebook spotify_listening_history1.ipynb
 ```
->>>>>>> fe95e43 (Add project documentation, retention strategy, and analytical takeaways)
+
