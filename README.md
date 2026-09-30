@@ -8,7 +8,7 @@ An end-to-end data analytics and engineering project analyzing **138,000+ scrobb
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 - [Architecture & Data Pipeline](#-architecture--data-pipeline)
 - [Database Schema (3NF Normalization)](#-database-schema-3nf-normalization)
 - [Key Analytical Insights](#-key-analytical-insights)
@@ -39,7 +39,7 @@ flowchart LR
 
 ---
 
-## 🗄️ Database Schema (3NF Normalization)
+## Database Schema (3NF Normalization)
 
 The database schema (`lastfm_project`) is structured to eliminate redundant string storage across 138k+ scrobbles:
 
@@ -80,7 +80,7 @@ erDiagram
 
 ---
 
-## 📊 Key Analytical Insights
+## 📊Key Analytical Insights
 
 * **Volume Surge & Habit Formation:** Annual listening exploded from **22,245 scrobbles (2021)** to an all-time peak of **108,114 (2023)** — a **+386% increase**, maintaining ~107k in 2024 (~293 tracks/day) before stabilizing.
 * **The "Comfort Looper" Profile:** Repeat listen rate jumped from **76.7% in 2021** to **90.3% in 2022** and peaked at **93.6% in 2024**. More than 9 out of 10 tracks played are familiar tracks rather than novel discoveries.
@@ -94,7 +94,7 @@ erDiagram
 
 ---
 
-## 🎯 Product & Retention Strategy (Streaming Platform Applications)
+##  Product & Retention Strategy (Streaming Platform Applications)
 
 How music streaming platforms (Spotify, Apple Music, YouTube Music) can leverage these behavioral insights to **maximize Day-30/Day-90 user retention, reduce churn, and personalize UX**:
 
@@ -131,7 +131,7 @@ How music streaming platforms (Spotify, Apple Music, YouTube Music) can leverage
 
 ---
 
-## 📈 Visualizations Gallery
+## Visualizations Gallery
 
 | Analysis | Description | Preview |
 | :--- | :--- | :--- |
@@ -146,7 +146,7 @@ How music streaming platforms (Spotify, Apple Music, YouTube Music) can leverage
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ├── spotify_listening_history1.ipynb   # Main Jupyter notebook (ETL, SQL queries, visualizations, takeaways)
@@ -160,7 +160,7 @@ How music streaming platforms (Spotify, Apple Music, YouTube Music) can leverage
 
 ---
 
-## 🚀 Setup & Reproduction Guide
+## Setup & Reproduction Guide
 
 ### Prerequisites
 * Python 3.10+
